@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "649638830054",
+    "project_id": "tasko-9d2f5",
+    "storage_bucket": "tasko-9d2f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649638830054:android:62695d2263bae78ba10027",
+        "android_client_info": {
+          "package_name": "com.example.tasko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649638830054-c7j8lu61tv836hkm9tcgdkp8k6ts8to3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasko",
+            "certificate_hash": "e2e2b795df64264f6f7edb78ef1f45a96b9054b4"
+          }
+        },
+        {
+          "client_id": "649638830054-cdrueutoq7khe47bctempnhecg1pf90a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw7dSYMIuL5KvBBjvlvC_RtK9OtHw8C6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649638830054-4l5hpi9snanb84umaa5dlr8ab8sqel24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649638830054-fo5nvffl4kjrtg904ss7tiu80qvduc9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tasko"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
